@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name>gpx_export_pi</name>
+  <version>v0.9.1-beta</version>
+  <release>3</release>
+  <summary>Export GPX to File or FTP</summary>
+
+  <api-version>1.20</api-version>
+  <open-source>yes</open-source>
+  <author>Warren Holybee</author>
+  <source>https://github.com/wholybee/gpx_export_pi</source>
+  <info-url>https://github.com/wholybee/gpx_export_pi</info-url>
+
+  <description>	Export OpenCPN routes and waypoints to GPX files using configurable compatibility presets for marine chartplotters and navigation software.
+</description>
+
+  <target>debian-arm64</target>
+  <target-version>12</target-version>
+  <target-arch>arm64</target-arch>
+  <tarball-url>https://dl.cloudsmith.io/public/workspace-for-warren-085x/gpx_export_pi-beta/raw/names/gpx_export_pi-v0.9.1-beta-debian-arm64-A64-12-tarball/versions/v0.9.1-beta/gpx_export_pi-v0.9.1-beta_debian-arm64-12-arm64.tar.gz</tarball-url>
+  <tarball-checksum>f3ef886317a56ecb299f721b971b9a4fa86aa91f1636e7778daa7faa7841d404</tarball-checksum>
+</plugin>
