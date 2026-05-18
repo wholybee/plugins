@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://app.circleci.com/jobs/circleci/9dea3809-a9d8-4a33-846f-98127782ddbc/46b2148c-dd56-4703-9cb3-db33203c567c/335 -->
+<plugin version="1">
+  <name>gpx_export_pi</name>
+  <version>v0.9.1-beta</version>
+  <release>3</release>
+  <summary>Export GPX to File or FTP</summary>
+
+  <api-version>1.20</api-version>
+  <open-source>yes</open-source>
+  <author>Warren Holybee</author>
+  <source>https://github.com/wholybee/gpx_export_pi</source>
+  <info-url>https://github.com/wholybee/gpx_export_pi</info-url>
+
+  <description>	Export OpenCPN routes and waypoints to GPX files using configurable compatibility presets for marine chartplotters and navigation software.
+</description>
+
+  <target>flatpak-aarch64</target>
+  <target-version>24.08</target-version>
+  <target-arch>aarch64</target-arch>
+  <tarball-url>https://dl.cloudsmith.io/public/workspace-for-warren-085x/gpx_export_pi-beta/raw/names/gpx_export_pi-v0.9.1-beta-flatpak-aarch64-A64-24.08-tarball/versions/v0.9.1-beta/gpx_export_pi-v0.9.1-beta_flatpak-aarch64-24.08-aarch64.tar.gz</tarball-url>
+  <tarball-checksum>a1aa19390842a665095c9ae7bc16ac0dece5601bbf0778adab1d04ed00aee238</tarball-checksum>
+</plugin>
